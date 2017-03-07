@@ -4,10 +4,6 @@
 	<title>git</title>
 </head>
 <body>
-<h1>
-<?php
-echo "hello git";
-?>
-</h1>
+<h1>hello git</h1>
 </body>
 </html>
